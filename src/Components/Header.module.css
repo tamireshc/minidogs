@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.title {
+  font-weight: 900;
+}
+
+.button {
+  cursor: pointer;
+  padding: 0px;
+  margin: 0px;
+  display: block;
+  border: 2px solid #000;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: none;
+  box-sizing: border-box;
+}
+
+.button.loading {
+  background: orange;
+}
+
+.button.loaded {
+  background: greenyellow;
+}

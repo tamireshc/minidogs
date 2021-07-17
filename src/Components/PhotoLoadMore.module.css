@@ -1,0 +1,12 @@
+.button {
+  margin: 1rem 0 0 auto;
+  display: block;
+  width: 32px;
+  height: 32px;
+  background: black;
+  cursor: pointer;
+  color: white;
+  border-radius: 50%;
+  border: none;
+  font-family: sans-serif;
+}
