@@ -1,3 +1,6 @@
-# Getting Started with Create React App
+# MiniDogs
 
+Projeto utilizando Redux 
+
+https://minidogs.vercel.app/
 
