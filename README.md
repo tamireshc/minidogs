@@ -2,5 +2,6 @@
 
 Projeto utilizando Redux 
 
-https://minidogs.vercel.app/
+*Estudos realizados no curso Origamid*</br>
+Deploy -> https://minidogs.vercel.app/
 
